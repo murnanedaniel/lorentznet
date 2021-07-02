@@ -1,7 +1,13 @@
 LorentzNet
 ==============================
 
-Exploratory studies of Lorentz/Rotational equivariance and invariance
+Exploratory studies of Lorentz/Rotational equivariance and invariance.
+
+Setup
+------------
+
+The training notebook requires Pytorch and `torch_cluster`, which can be installed following [these instructions](https://github.com/rusty1s/pytorch_cluster).
+
 
 Project Organization
 ------------
