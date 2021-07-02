@@ -6,7 +6,7 @@ Exploratory studies of Lorentz/Rotational equivariance and invariance.
 Setup
 ------------
 
-The training notebook requires Pytorch and `torch_cluster`, which can be installed following [these instructions](https://github.com/rusty1s/pytorch_cluster).
+The training notebook requires Pytorch, and `torch_scatter` and `torch_cluster`, which can be installed from the [Pytorch geometric install page](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html).
 
 
 Project Organization
